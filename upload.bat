@@ -7,9 +7,11 @@ echo ========================================
 :: 1. 변경된 파일 스테이징
 git add .
 
-:: 2. 커밋 메시지 입력 (현재 날짜와 시간 포함)
-set datetime=%date% %time%
-git commit -m "update: %datetime%"
+:: 2. 커밋 
+set currenttime=%time:~0,5%
+set datetime=%date% %currenttime%
+
+git commit -m "update (%datetime%)"
 
 :: 3. 푸시 (에러 방지를 위해 강제성 추가 가능)
 echo.
