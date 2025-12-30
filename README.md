@@ -1,4 +1,4 @@
-# Wikipedia(위키백과) App 자동화 테스트  
+# Wikipedia(위키백과) App Sample 자동화 테스트 
 > **App Automation Testing** | `Robot Framework` & `Appium`
 
 위키백과 Wikepedia App 자동화 테스트 스크립트
