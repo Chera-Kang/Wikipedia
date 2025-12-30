@@ -18,8 +18,10 @@
 
 ## 테스트 결과
 ### 🎥 테스트 동영상 (Youtube)
-
 - 자동화 테스트 동영상 **(25.04.15)** | [▶️ 바로보기](https://youtu.be/L-_c_SkEAjs)
+
+## 테스트 결과 다운로드 (샘플)
+> 테스트 결과 샘플파일 다운로드 및 구성 요소 요약
 
 #### 🗂️ **Google Drive**
 - [🔗 Test Result (.zip)](https://drive.google.com/drive/folders/1f9foK6b4ZrYw6ugmbNNy25gB79n0HGNt)
@@ -38,8 +40,7 @@
 
 ## Tech Stack
 > 프로젝트에 사용된 주요 기술 및 도구
-
-- **Scripting**: `Robot DSL` & `Python` (Custom Keyword Development)
+- **Scripting**: `Robot DSL` & `Python` (Domain-Specific Language / Custom Keyword Development)
 - **Framework**: `Robot Framework` + `Appium Library`
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
